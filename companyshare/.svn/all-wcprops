@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dreamtech_pythondjango/!svn/ver/4/companyshare
+END
+data-valid1.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/data-valid1.csv
+END
+unittesthighshare.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/unittesthighshare.py
+END
+pandashighshare.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/pandashighshare.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/__init__.py
+END
+highshare.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/highshare.py
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/.project
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/.pydevproject
+END
+data-invalid.csv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dreamtech_pythondjango/!svn/ver/5/companyshare/data-invalid.csv
+END
